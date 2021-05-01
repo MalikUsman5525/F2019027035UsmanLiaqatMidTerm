@@ -18,7 +18,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 /**
  *
  * @author Malik Usman
- */
+ */     
 @Entity
 @Table(name = "Cities")
 @XmlRootElement
